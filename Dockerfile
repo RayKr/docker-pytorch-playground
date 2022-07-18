@@ -1,6 +1,6 @@
-FROM continuumio/miniconda3:4.11.0
+FROM continuumio/miniconda3:4.12.0
 
-LABEL maintainer=soulteary@gmail.com
+LABEL maintainer=raykr@buaa.edu.cn
 
 ARG USE_MIRROR=1
 
